@@ -1,11 +1,10 @@
-# KPMG-Sales-Analysis-Dashboard---Forage-
 Data Analytics Consulting Virtual Internship
 
 # KPMG AU Data Analytics Job Simulation on Forage - October 2023
-	• Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team
-	• Assessed data quality and completeness in preparation for analysis
-	• Analysed data to target high-value customers based on demographics and attributes
-	• Developed dashboards to communicate findings with visuals
+• Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team
+• Assessed data quality and completeness in preparation for analysis
+• Analysed data to target high-value customers based on demographics and attributes
+• Developed dashboards to communicate findings with visuals
 
 # Project Overview: 
 Enhancing Marketing Strategy for Sprocket Central Pty Ltd
@@ -47,9 +46,9 @@ Detailed Analysis:
 
 Recommendations provided:-
 Target Customer list should include :
- > Middle Age (36-59 year old people) , Female customers preferably.
- > Customers belonging to NSW , having Mass Customer under wealth segment category should be focused.
- > Car owners should be targeted with marketing campaigns of bike, and car accessories as they might opt in for alternate means of transportation, whereas Non car owners are the main ones to be focused on to increase sales if they plan to purchase own means of transportation.
+ 1. Middle Age (36-59 year old people) , Female customers preferably.
+ 2. Customers belonging to NSW , having Mass Customer under wealth segment category should be focused.
+ 3. Car owners should be targeted with marketing campaigns of bike, and car accessories as they might opt in for alternate means of transportation, whereas Non car owners are the main ones to be focused on to increase sales if they plan to purchase own means of transportation.
 
  # Certificate of Completion:
 
