@@ -26,9 +26,6 @@ Data Quality Assessment:
 
 <img width="619" alt="image" src="https://github.com/Mansi-2706/KPMG-Sales-Analysis-Dashboard---Forage-/assets/131741818/05a22b8a-01fa-49b3-8469-4d099698a529">
 
-Model Development:
-
-Related Tables -
 
 <img width="603" alt="image" src="https://github.com/Mansi-2706/KPMG-Sales-Analysis-Dashboard---Forage-/assets/131741818/a556d589-d506-4cb0-a37c-e6cde42338e6">
 
